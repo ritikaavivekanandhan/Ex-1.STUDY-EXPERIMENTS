@@ -137,12 +137,11 @@ The name "magic tee" is derived from the way in which power is divided among the
 <img width="739" height="261" alt="image" src="https://github.com/user-attachments/assets/8e59a3da-eb3a-4114-8d0c-e4c55d507bbc" />
 <img width="739" height="261" alt="image" src="https://github.com/user-attachments/assets/1c859fc5-f738-497c-a426-71ab31f1b29f" />
 <img width="338" height="322" alt="image" src="https://github.com/user-attachments/assets/fd87b37a-4844-4c84-9691-2ecbf8edfc51" />
-
-
 #### 11. E and H Plane Tee
 In E Plane Tee the junction of the auxiliary arm is made on the broad wall of the main waveguide. And in H Plane Tee the junction of auxiliary arm is made on the narrow wall of the main waveguide.
 
 E Plane Tee H Plane Tee
+
 <img width="558" height="249" alt="image" src="https://github.com/user-attachments/assets/765529ad-9943-4690-98f1-1202398a1593" />
 
 #### 12. Matched Termination
