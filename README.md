@@ -6,14 +6,17 @@ To become familiar with microwave components and instruments available in the la
 Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted section, Frequency/wave meter, RF Generator, Vector Network Analyzer.
 
 ## OBJECTIVES:
-Note relevant Technical specifications of the instruments.
-Study position and functions of the front panel controls of the equipment.
-Know basic principle of operation and functional block diagram of the instrument.
-Facilities provided and limitations of the equipment if any.
-Know initial settings of controls of the equipments before switching on the supply.
-Precautions to be taken while carrying out the measurements.
+1.Note relevant Technical specifications of the instruments.
+2.Study position and functions of the front panel controls of the equipment.
+3.Know basic principle of operation and functional block diagram of the instrument.
+4.Facilities provided and limitations of the equipment if any.
+5.Know initial settings of controls of the equipments before switching on the supply.
+6.Precautions to be taken while carrying out the measurements.
 Observation: ( Include your own Table relevant to the Experiment)
- Identify the components/devices.  Study basic principle of operation of devices and components.  Know typical application of each component.  Identify the E field and H field mode patterns in these devices.
+ Identify the components/devices.
+ Study basic principle of operation of devices and components.
+ Know typical application of each component.
+ Identify the E field and H field mode patterns in these devices.
 
 ## THEORY:
 Components/Devices: Attenuator, circulator, Isolator, Waveguide twist, Magic Tee, E plane, H plane Tee, Directional coupler, Matched termination, PIN modulator, Crystal detector, Reflex klystron tube, Gunn diode, different types of antennas available.
